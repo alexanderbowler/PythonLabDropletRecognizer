@@ -14,7 +14,3 @@ params = [dp, param1, param2, minRadius, maxRadius, channel_height]
 
 Test = PostSwell_DropGelAnalysis.ImgCircleAnalysis(params,"A1")
 Test.run()
-
-
-#Scrnshot = Screenshot_Capture.ScrnShot(os.getcwd()+'/ImgsToTest')
-#Scrnshot.takeScreenshot()
